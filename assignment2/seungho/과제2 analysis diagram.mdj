@@ -2805,7 +2805,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsPeDYeY71s="
 							},
-							"name": "회사이름"
+							"name": "회사이름",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2813,7 +2814,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsPeDYeY71s="
 							},
-							"name": "사업자번호"
+							"name": "사업자번호",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2821,7 +2823,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsPeDYeY71s="
 							},
-							"name": "사업분야"
+							"name": "사업분야",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2829,7 +2832,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsPeDYeY71s="
 							},
-							"name": "주소"
+							"name": "주소",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2837,7 +2841,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsPeDYeY71s="
 							},
-							"name": "전화번호"
+							"name": "전화번호",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2845,7 +2850,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsPeDYeY71s="
 							},
-							"name": "ID"
+							"name": "ID",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2853,7 +2859,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsPeDYeY71s="
 							},
-							"name": "Password"
+							"name": "Password",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -2882,7 +2889,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsYa2Yf/T0k="
 							},
-							"name": "업무"
+							"name": "업무",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2890,7 +2898,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsYa2Yf/T0k="
 							},
-							"name": "인원수"
+							"name": "인원수",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2898,7 +2907,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIBsYa2Yf/T0k="
 							},
-							"name": "신청 마감일"
+							"name": "신청 마감일",
+							"type": ""
 						}
 					]
 				},
